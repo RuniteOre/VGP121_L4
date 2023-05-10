@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: c971f484fe872394ca966365a3cad2c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ryu_Jumping_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 44
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed41b9174706fc46935cfd486caccb5
+      internalID: -2138297301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 51
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2ca33b0c88bd4687678240f728b3e
+      internalID: 1858994810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 58
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf062eb0dede1d14199799d5fadcf23e
+      internalID: -1527426352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 65
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900248473d719545b6c77a180899b2d
+      internalID: 1515673367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 63
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c12b3c87849949ac7c718e4606c15
+      internalID: 288194338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 62
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c69becb21060f47bf8440fb18576b4
+      internalID: 1746852472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fddda972900b40abaacf7ba913bae
+      internalID: -283454786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 61
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0255858604fb6c448d70e1d7da53d52
+      internalID: 1512760042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_22
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e896fa51e543458ac7a524f0a21b4
+      internalID: 1851076736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58e6dc7463e1c48906fd19dab4e61e
+      internalID: 127246397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_31
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 42
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7994d4e79043684a8f9a8b547b68304
+      internalID: -153719240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_34
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 34
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be331f754f8fe448f2aa4c765d0088
+      internalID: 1443292723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fb5560f4619b4baf97a1993c4692f
+      internalID: -1154198589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 23
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91450d83cee79c344b8f40d1cbb85b2d
+      internalID: 757184913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_52
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 26
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1854ca228f2a514abf7f6ecc55a6b97
+      internalID: 578533095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Jumping_53
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 18
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df62db72552bd4ba94bdd57ae1f8de
+      internalID: 1120243377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DELETE: -1557190149
+      Ryu_Jumping_0: -2138297301
+      Ryu_Jumping_1: 1858994810
+      Ryu_Jumping_10: 288194338
+      Ryu_Jumping_11: -2140188557
+      Ryu_Jumping_12: 397771423
+      Ryu_Jumping_13: 1746852472
+      Ryu_Jumping_14: -1007998095
+      Ryu_Jumping_15: 1465308725
+      Ryu_Jumping_16: -283454786
+      Ryu_Jumping_17: -145626041
+      Ryu_Jumping_18: 1133987005
+      Ryu_Jumping_19: 1512760042
+      Ryu_Jumping_2: -1883186795
+      Ryu_Jumping_20: 659905631
+      Ryu_Jumping_21: -1020848489
+      Ryu_Jumping_22: 1851076736
+      Ryu_Jumping_23: -364144270
+      Ryu_Jumping_24: 127246397
+      Ryu_Jumping_25: -996283588
+      Ryu_Jumping_26: -179317449
+      Ryu_Jumping_27: 236931213
+      Ryu_Jumping_28: 234188526
+      Ryu_Jumping_29: 1667432033
+      Ryu_Jumping_3: -376335897
+      Ryu_Jumping_30: -1433219115
+      Ryu_Jumping_31: -153719240
+      Ryu_Jumping_32: 967865559
+      Ryu_Jumping_33: -897146175
+      Ryu_Jumping_34: 1443292723
+      Ryu_Jumping_35: 1728722246
+      Ryu_Jumping_37: -1671888909
+      Ryu_Jumping_38: -490673517
+      Ryu_Jumping_39: -1721850373
+      Ryu_Jumping_4: -1527426352
+      Ryu_Jumping_40: 462397497
+      Ryu_Jumping_41: 221336635
+      Ryu_Jumping_42: 837133413
+      Ryu_Jumping_43: 1694802182
+      Ryu_Jumping_44: 785835297
+      Ryu_Jumping_45: -2130605116
+      Ryu_Jumping_46: -1154198589
+      Ryu_Jumping_47: -1786122677
+      Ryu_Jumping_48: -1949182929
+      Ryu_Jumping_49: 757184913
+      Ryu_Jumping_5: 746452360
+      Ryu_Jumping_50: -443471306
+      Ryu_Jumping_51: -168119941
+      Ryu_Jumping_52: 578533095
+      Ryu_Jumping_53: 1120243377
+      Ryu_Jumping_6: 2143766877
+      Ryu_Jumping_7: 1515673367
+      Ryu_Jumping_8: -1531092411
+      Ryu_Jumping_9: -2096814576
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
